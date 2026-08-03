@@ -8,8 +8,6 @@ Desenvolvedor apaixonado por tecnologia, resolução de problemas e construção
 ### 🚀 Sobre mim
 - 🔭 Bacharelado em Ciências da Computaçãoem andamento.
 - 🌱 Phyton, Java-Script, C.
-- 💬 Pergunte-me sobre: **[Assuntos em que pode ajudar]**
-- 📫 Como me encontrar: **[LinkedIn / E-mail]**
 
 ---
 
@@ -28,9 +26,7 @@ Desenvolvedor apaixonado por tecnologia, resolução de problemas e construção
   <img src="https://github-readme-stats.vercel.app/api?username=ryandecade00&show_icons=true&theme=radial" alt="Estatísticas de Ryan" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandecade00&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
 </div>
-- 🌱 Aprendendo no momento: **[Tecnologia que está estudando]**
-- 💬 Pergunte-me sobre: **[Assuntos em que pode ajudar]**
-- 📫 Como me encontrar: **[LinkedIn / E-mail]**
+
 
 ---
 
