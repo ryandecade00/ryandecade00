@@ -1,10 +1,4 @@
-# Olá, eu sou Ryan! 👋
 
-Desenvolvedor apaixonado por tecnologia, resolução de problemas e construções de infra e software.
-
----
-
-### 🚀 Sobre mim
 - 🔭# Olá, eu sou Ryan! 👋
 
 Desenvolvedor apaixonado por tecnologia, resolução de problemas e construção de software eficiente.
